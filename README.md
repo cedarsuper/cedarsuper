@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cedarsuper
+- 👋 Hi, I’m Sim
 - 👀 I’m interested in Blockchain ,DEFI , NFT and Data Analysis
 - 🌱 I’m currently learning Solidity, Python, Javascript
 
